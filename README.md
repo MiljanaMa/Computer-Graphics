@@ -1,6 +1,6 @@
 # Computer-Graphics
 ## Academic Context:
-* Project for the subject Computer Graphics made in C++ and OpenGL
+* Project for the Computer Graphics class, made in C++ and OpenGL
 * Faculty of Technical Sciences
 * Computer Science and Automation
 * Applied Computer Science and Informatics
